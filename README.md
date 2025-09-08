@@ -1,0 +1,2 @@
+# Numn
+Manhwa,manhua,manga
